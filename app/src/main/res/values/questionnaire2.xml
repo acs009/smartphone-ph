@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="q2">
+        <item>
+            @array/q201
+        </item>
+        <item>
+            @array/q202
+        </item>
+        <item>
+            @array/q203
+        </item>
+        <item>
+            @array/q204
+        </item>
+        <item>
+            @array/q205
+        </item>
+        <item>
+            @array/q206
+        </item>
+        <item>
+            @array/q207
+        </item>
+        <item>
+            @array/q208
+        </item>
+        <item>
+            @array/q209
+        </item>
+        <item>
+            @array/q210
+        </item>
+        <item>
+            @array/q211
+        </item>
+        <item>
+            @array/q212
+        </item>
+        <item>
+            @array/q213
+        </item>
+        <item>
+            @array/q214
+        </item>
+        <item>
+            @array/q215
+        </item>
+        <item>
+            @array/q216
+        </item>
+        <item>
+            @array/q217
+        </item>
+        <item>
+            @array/q218
+        </item>
+        <item>
+            @array/q219
+        </item>
+        <item>
+            @array/q220
+        </item>
+        <item>
+            @array/q221
+        </item>
+        <item>
+            @array/q222
+        </item>
+        <item>
+            @array/q223
+        </item>
+        <item>
+            @array/q224
+        </item>
+
+    </array>
+
+
+    <string-array name="q201">
+        <item name="question">
+            I would rate my breathlessness at rest as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q202">
+        <item name="question">
+            I would rate my breathlessness walking on a level at your own pace as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q203">
+        <item name="question">
+            I would rate my breathlessness walking on a level with others your age as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q204">
+        <item name="question">
+            I would rate my breathlessness walking up a hill as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q205">
+        <item name="question">
+            I would rate my breathlessness walking up stairs as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q206">
+        <item name="question">
+            I would rate my breathlessness while eating as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q207">
+        <item name="question">
+            I would rate my breathlessness standing up from chair as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q208">
+        <item name="question">
+            I would rate my breathlessness brushing teeth as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q209">
+        <item name="question">
+            I would rate my breathlessness shaving and/or brushing hair as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q210">
+        <item name="question">
+            I would rate my breathlessness showering/bathing as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q211">
+        <item name="question">
+            I would rate my breathlessness dressing as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q212">
+        <item name="question">
+            I would rate my breathlessness picking up and straightening as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q213">
+        <item name="question">
+            I would rate my breathlessness doing dishes as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q214">
+        <item name="question">
+            I would rate my breathlessness sweeping/vacuuming as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q215">
+        <item name="question">
+            I would rate my breathlessness making the bed as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q216">
+        <item name="question">
+            I would rate my breathlessness shopping as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q217">
+        <item name="question">
+            I would rate my breathlessness doing laundry as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q218">
+        <item name="question">
+            I would rate my breathlessness washing car as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q219">
+        <item name="question">
+            I would rate my breathlessness mowing lawn as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q220">
+        <item name="question">
+            I would rate my breathlessness watering lawn as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q221">
+        <item name="question">
+            I would rate my breathlessness doing sexual activites as:
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q222">
+        <item name="question">
+            How much do these limit your daily life: shortness of breath.
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q223">
+        <item name="question">
+            How much do these limit your daily life: fear of "hurting myself" by overexerting.
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+    <string-array name="q224">
+        <item name="question">
+            How much do these limit your daily life: fear of shortness of breath.
+        </item>
+        <item name="answer1">
+            Not at all
+        </item>
+        <item name="answer2">
+            A little
+        </item>
+        <item name="answer3">
+            Somewhat
+        </item>
+        <item name="answer4">
+            A lot
+        </item>
+        <item name="answer5">
+            Severely
+        </item>
+        <item name="answer6">
+            Maximally or unable to do because of breathlessness
+        </item>
+    </string-array>
+
+
+</resources>

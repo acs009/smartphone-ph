@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="short_quiz">
+        <item>
+            @array/shortq1
+        </item>
+        <item>
+            @array/shortq2
+        </item>
+        <item>
+            @array/shortq3
+        </item>
+        <item>
+            @array/shortq4
+        </item>
+        <item>
+            @array/shortq5
+        </item>
+        <item>
+            @array/shortq7
+        </item>
+        <item>
+            @array/shortq8
+        </item>
+        <item>
+            @array/shortq9
+        </item>
+        <item>
+            @array/shortq10
+        </item>
+        <item>
+            @array/shortq11
+        </item>
+        <item>
+            @array/shortq12
+        </item>
+
+    </array>
+
+    <string-array name="shortq1">
+        <item name="question">
+            “Do you feel your respiratory health is at or near baseline?”
+        </item>
+        <item name="answer1">
+            Yes
+        </item>
+        <item name="answer2">
+             No
+        </item>
+    </string-array>
+    <string-array name="shortq2">
+        <item name="question">
+            How would you rate your shortness of breath in the past 24 hours?
+        </item>
+        <item name="answer1">
+            No unusual(SOB)
+        </item>
+        <item name="answer2">
+             Mild
+        </item>
+        <item name="answer3">
+            Moderate
+        </item>
+        <item name="answer4">
+            The worst imaginable
+        </item>
+    </string-array>
+    <string-array name="shortq3">
+        <item name="question">
+            How would you rate your cough in the past 24 hours?
+        </item>
+        <item name="answer1">
+            No unusual cough
+        </item>
+        <item name="answer2">
+            Mild
+        </item>
+        <item name="answer3">
+            Moderate
+        </item>
+        <item name="answer4">
+            Worst imaginable
+        </item>
+    </string-array>
+
+    <string-array name="shortq4">
+        <item name="question">
+            How would you rate your sputum production in the past 24 hours?
+        </item>
+        <item name="answer1">
+            About 1 ounce
+        </item>
+        <item name="answer2">
+            2-3 oz
+        </item>
+        <item name="answer3">
+            >4 oz
+        </item>
+    </string-array>
+    <string-array name="shortq5">
+        <item name="question">
+            “In the past 24 hours, have you coughed up blood or has it increased in volume?”
+        </item>
+        <item name="answer1">
+            Yes
+        </item>
+        <item name="answer2">
+             No
+        </item>
+    </string-array>
+    <string-array name="shortq7">
+        <item name="question">
+             “In the past 24 hours, are your sinus symptoms worsening including increased nasal discharge, sinus pressure or pain?”
+        </item>
+        <item name="answer1">
+            Yes
+        </item>
+        <item name="answer2">
+             No
+        </item>
+    </string-array>
+    <string-array name="shortq8">
+        <item name="question">
+            How would you rate your sinus symptoms i.e. sinus pressure, drainage or pain in the past 24 hours?
+        </item>
+        <item name="answer1">
+            None/Baseline
+        </item>
+        <item name="answer2">
+            Mildly worse
+        </item>
+        <item name="answer3">
+            Moderately worse
+        </item>
+        <item name="answer4">
+            Severe/worse imaginable
+        </item>
+    </string-array>
+    <string-array name="shortq9">
+        <item name="question">
+            How would you rate your energy level in the past 24 hours?
+        </item>
+        <item name="answer1">
+            None/Baseline
+        </item>
+        <item name="answer2">
+            Mildly worse
+        </item>
+        <item name="answer3">
+            Moderately worse
+        </item>
+        <item name="answer4">
+            Severe/worse imaginable
+        </item>
+    </string-array>
+    <string-array name="shortq10">
+        <item name="question">
+              “In the past 24 hours, have you had fevers or worsening night sweats?”
+        </item>
+        <item name="answer1">
+            Yes
+        </item>
+        <item name="answer2">
+             No
+        </item>
+    </string-array>
+    <string-array name="shortq11">
+        <item name="question">
+              In the past 24 hours, have you missed school, work or social engagements because of your health?
+        </item>
+        <item name="answer1">
+            Yes
+        </item>
+        <item name="answer2">
+             No
+        </item>
+    </string-array>
+    <string-array name="shortq12">
+        <item name="question">
+              “Is your appetite worsening or have you lost significant weight?”
+        </item>
+        <item name="answer1">
+            Yes
+        </item>
+        <item name="answer2">
+             No
+        </item>
+    </string-array>
+
+</resources>
