@@ -1,9 +1,0 @@
-<shape
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:shape="oval"
-    >
-    <!-- The fill color -->
-    <solid android:color="#2acd69" />
-    <!-- Just to add a border -->
-
-</shape>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="stepOne">Collect the sputum for 15 minutes during a hypertonic saline treatment session. Perform the pH measurment within 15 minutes after the specimen collection</string>
-    <string name="stepTwo">Remove the probe from the storage container, rinse on all sides with running tap water for 30 seconds and blot dry with lint-free tissue.</string>
-    <string name="stepThree">Assemble the probe, electronic module and smartphone with the provided connectors. First connect the electronic module to the smartphone and then connect the pH probe to the electronic module.</string>
-    <string name="stepFour">Insert the probe\'s tip into the sample and press the Begin Test button.</string>
-    <string name="stepFive">Disconnect the probe and clean on all sides with running tap water for 60 seconds, blot dry with lint-free tissue and store in the provided storage container.</string>
-    <string name="stepSix">Discard the closed sputum collection cup in the trash.</string>
-</resources>
