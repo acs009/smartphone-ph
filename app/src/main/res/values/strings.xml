@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UCSD CF App</string>
+    <string name="recordButton">Record</string>
+    <string name="activateText"></string>
+    <string name="pHText">pH Sensor</string>
+    <string name="rightArrow"></string>
+    <string name="leftArrow"></string>
+    <string name="phButtonText">Begin Test</string>
+    <string-array name="test_array">
+        <item>Select a Test</item>
+        <item>Ferro/Ferri</item>
+        <item>Coffee</item>
+        <item>OJ</item>
+        <item>pAPP</item>
+    </string-array>
+    <string name="test_prompt">Select a Test</string>
+    <string-array name="rate_array">
+        <item>Select a Rate</item>
+        <item>25 mV/s</item>
+        <item>50 mV/s</item>
+        <item>100 mV/s</item>
+    </string-array>
+    <string-array name="sampleRate_array">
+        <item>s</item>
+        <item>min</item>
+    </string-array>
+    <string name="rate_prompt"></string>
+    <string name="title_activity_p_h">pHActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pot_stat">PotStatActivity</string>
+    <string name="title_activity_p_hresults">pHResultsActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_time_series_app">TimeSeriesApp</string>
+    <string name="title_activity_time_series_recording">TimeSeriesRecordingActivity</string>
+</resources>

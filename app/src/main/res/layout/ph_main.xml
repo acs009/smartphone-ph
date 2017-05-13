@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff0091ff"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:text="@string/pHText" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight=".5"
+        android:orientation="vertical"
+        android:textColor="#ffffffff">
+
+        <ViewFlipper
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentTop="true"
+            android:id="@+id/phFlipper">
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+                <TextView
+                    android:id="@+id/instrText"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:text="Debugging/Testing Screen"
+                    android:textColor="#ff000000"
+                    android:textSize="20dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:background="#ff0091ff"
+                    android:gravity="center"
+                    android:text="Step One:"
+                    android:textColor="#ffffffff"
+                    android:textSize="30dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:text="@string/stepOne"
+                    android:textColor="#ff000000"
+                    android:textSize="20dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:background="#ff0091ff"
+                    android:gravity="center"
+                    android:text="Step Two:"
+                    android:textColor="#ffffffff"
+                    android:textSize="30dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:text="@string/stepTwo"
+                    android:textColor="#ff000000"
+                    android:textSize="20dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:background="#ff0091ff"
+                    android:gravity="center"
+                    android:text="Step Three:"
+                    android:textColor="#ffffffff"
+                    android:textSize="30dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:text="@string/stepThree"
+                    android:textColor="#ff000000"
+                    android:textSize="20dp" />
+
+                <!--<ImageView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:src="@drawable/phimage" />-->
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:background="#ff0091ff"
+                    android:gravity="center"
+                    android:text="Step Four:"
+                    android:textColor="#ffffffff"
+                    android:textSize="30dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:text="@string/stepFour"
+                    android:textColor="#ff000000"
+                    android:textSize="20dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:background="#ff0091ff"
+                    android:gravity="center"
+                    android:text="Step Five:"
+                    android:textColor="#ffffffff"
+                    android:textSize="30dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:text="@string/stepFive"
+                    android:textColor="#ff000000"
+                    android:textSize="20dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:background="#ff0091ff"
+                    android:gravity="center"
+                    android:text="Step Six:"
+                    android:textColor="#ffffffff"
+                    android:textSize="30dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:text="@string/stepSix"
+                    android:textColor="#ff000000"
+                    android:textSize="20dp" />
+            </LinearLayout>
+        </ViewFlipper>
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/phButtonStart"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="pHStart"
+        android:visibility="visible"
+        android:text="@string/phButtonText"></Button>
+
+    <Button
+        android:id="@+id/phbuttonSerial"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="pHserialFetch"
+        android:text="Get Serial"
+        android:visibility="gone"></Button>
+
+    <Button
+        android:id="@+id/phButtonGetPh"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="pHFetch"
+        android:text="Get pH"
+        android:visibility="gone"></Button>
+
+    <Button
+        android:id="@+id/phButtonGetTemp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="tempFetch"
+        android:text="Get Temperature"
+        android:visibility="gone"></Button>
+</LinearLayout>

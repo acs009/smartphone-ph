@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="re.serialout.TimeSeriesRecordingActivity">
+    <TextView
+        android:layout_alignParentTop="true"
+        android:id="@+id/timeRec_title"
+        android:background="#ff0091ff"
+        android:textColor="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sampling in Progress"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:padding="10dp"
+        />
+    <LinearLayout
+        android:padding="10dp"
+        android:gravity="center"
+        android:id="@+id/timeRec_timerLayout"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_below="@id/timeRec_title"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Time Remaining: "
+            android:textSize="20dp"
+            />
+        <TextView
+            android:id="@+id/timeRes_countDownText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="10:00"
+            android:textColor="#41da4e"
+            android:textSize="20dp"
+            />
+    </LinearLayout>
+    <Button
+        android:id="@+id/timeRec_pauseButton"
+        android:layout_width="match_parent"
+        android:text="Cancel"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/button_red"
+        android:onClick="timeRecCancel"
+        />
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/timeRec_chart"
+        android:layout_below="@id/timeRec_timerLayout"
+        android:layout_above="@id/timeRec_pauseButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </com.github.mikephil.charting.charts.LineChart>
+
+
+
+</RelativeLayout>
